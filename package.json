@@ -25,6 +25,8 @@
     "appId": "blog_team_rank"
   },
   "dependencies": {
+    "google-auth-library": "^0.11.0",
+    "googleapis": "^22.2.0",
     "puppeteer": "^0.12.0"
   }
 }
