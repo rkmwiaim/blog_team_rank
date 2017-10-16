@@ -23,6 +23,8 @@
   },
   "build": {
     "appId": "blog_team_rank"
+  },
+  "dependencies": {
+    "puppeteer": "^0.12.0"
   }
-
 }
